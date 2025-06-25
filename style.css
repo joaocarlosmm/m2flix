@@ -1,7 +1,8 @@
 body{
     background-color: black;
     color: antiquewhite;
-    font-family: "Chakra Petch", sans-serif;    
+    font-family: "Chakra Petch", sans-serif;   
+    margin: 20px; 
 }
 
 h1{
