@@ -18,3 +18,7 @@ h1 {
         font-size: 50px;
     }
 }
+
+header{
+    border: solid 2px rgb(42, 122, 228)
+}
